@@ -1,0 +1,6 @@
+This is some text
+This is some text
+
+Here we have and example of a txt file
+
+I belive that this file will be an implementation of Golangs reader interface.
